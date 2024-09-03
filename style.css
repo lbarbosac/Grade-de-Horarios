@@ -1,0 +1,104 @@
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    margin-top: 0px;
+}
+
+table {
+    width: 100%;
+    height: 500px;
+    margin-top: -20px;
+    border: 2px solid black;
+}
+
+body {
+    background-color: rgba(95, 98, 99, 0.637);
+}
+
+.titulo {
+    font-size: 30px;
+    text-align: center;
+    border: solid 2px rgb(177, 92, 92);
+    width: 100%;
+    
+}
+
+.dias {
+    background-color: rgb(165, 163, 163);
+    border: 2px solid black;
+    text-align: center;
+    cursor: pointer;
+}
+
+.dias:hover {
+    background-color: rgba(201, 200, 200, 0.473);
+}
+
+.tec {
+    background-color: rgba(92, 196, 92, 0.466);
+    border: 2px solid black;
+    text-align: center;
+    cursor: pointer;
+}
+
+.tec:hover{
+    background-color: rgb(148, 194, 148);
+}
+
+.artes {
+    background-color: rgba(171, 94, 243, 0.459);
+    border: 2px solid black;
+    text-align: center;
+    cursor: pointer;
+}
+
+.artes:hover {
+    background-color: rgba(137, 43, 226, 0.315);
+}
+
+.ing {
+    background-color: rgba(171, 94, 243, 0.459);
+    border: 2px solid black;
+    text-align: center;
+    cursor: pointer;
+}
+
+.ing:hover {
+    background-color: rgba(137, 43, 226, 0.356) ;
+}
+
+.mat {
+    background-color: rgba(211, 68, 68, 0.568);
+    border: 2px solid black;
+    text-align: center;
+    cursor: pointer;
+}
+
+.mat:hover {
+    background-color: rgba(165, 42, 42, 0.678) ;
+}
+
+.BB {
+    background-color: rgba(230, 162, 37, 0.671);
+    border: 2px solid black;
+    text-align: center;
+    cursor: pointer;
+}
+
+.BB:hover {
+    background-color: rgba(218, 151, 28, 0.63);
+}
+
+.fis {
+    background-color: rgb(141, 141, 211);
+    border: 2px solid black;
+    text-align: center;
+    cursor: pointer;
+}
+
+.fis:hover {
+    background-color: rgba(108, 108, 197, 0.678);
+}
